@@ -1,5 +1,5 @@
 # The Digital Piano
-A project I've developed and modified which simlulates a digital piano using Python. This project demonstrates my knowledge using graphical user interfaces and sound implementations.
+A project I've developed and modified which simulates a digital piano using Python. This project demonstrates my knowledge using graphical user interfaces and sound implementations.
 
 ### <ins> Inspirations and Credits: </ins> <br>
 **_Program a Piano Using Python!_** <br>
